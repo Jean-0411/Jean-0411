@@ -86,7 +86,7 @@
 
 <br>
 
-<!-- WIDGET DE SPOTIFY (NUEVO) -->
+<!-- WIDGET DE SPOTIFY CON ENDPOINT CORREGIDO -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   🎵 Now Playing
 </h2>
