@@ -66,22 +66,6 @@
 
 <br>
 
-### 🚀 Proyectos destacados
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Jean-0411/NOMBRE_REPO_1">
-        <img width="100%" src="https://ghstats.dev/api/pin?username=Jean-0411&repo=NOMBRE_REPO_1&theme=tokyonight" alt="Proyecto 1"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Jean-0411/NOMBRE_REPO_2">
-        <img width="100%" src="https://ghstats.dev/api/pin?username=Jean-0411&repo=NOMBRE_REPO_2&theme=tokyonight" alt="Proyecto 2"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ### 🖼️ Vitrina de Proyectos
