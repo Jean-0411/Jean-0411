@@ -30,7 +30,7 @@
 
 <br>
 
-<!-- 📊 STATS + LANGUAGES lado a lado (2 columnas, como en el código anterior) -->
+<!-- 📊 STATS + LANGUAGES lado a lado -->
 <table align="center">
   <tr>
     <td width="50%">
@@ -48,7 +48,7 @@
 
 <br>
 
-<!-- 🏷️ MINI BADGES en fila (como en el código anterior) -->
+<!-- 🏷️ MINI BADGES en fila -->
 <p align="center">
   <a href="https://github.com/Jean-0411">
     <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=commits&color=b026ff&style=for-the-badge" alt="Commits"/>
@@ -63,8 +63,6 @@
     <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=followers&label=Community&color=0f5eff&style=for-the-badge" alt="Followers"/>
   </a>
 </p>
-
-<br>
 
 <br>
 
@@ -125,7 +123,7 @@
 
 <br>
 
-<!-- 🐍 Snake animation de contribuciones -->
+### 🐍 Contribuciones (Snake)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jean-0411/Jean-0411/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
