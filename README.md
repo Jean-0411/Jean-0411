@@ -31,27 +31,39 @@
 
 <br>
 
-<!-- 📊 STATS + LANGUAGES + STREAK en grid de 3 columnas -->
+<!-- 📊 STATS + LANGUAGES lado a lado (2 columnas, como en el código anterior) -->
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td width="50%">
       <a href="https://github.com/Jean-0411">
         <img width="100%" src="https://ghstats.dev/api/card?username=Jean-0411&theme=tokyonight" alt="GitHub Stats Card"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td width="50%">
       <a href="https://github.com/Jean-0411">
         <img width="100%" src="https://ghstats.dev/api/langs?username=Jean-0411&theme=tokyonight&layout=donut" alt="Top Languages"/>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Jean-0411">
-        <img width="100%" src="https://ghstats.dev/api/mini?username=Jean-0411&metric=streak&color=00d9ff&style=for-the-badge" alt="Streak"/><br><br>
-        <img width="100%" src="https://ghstats.dev/api/mini?username=Jean-0411&metric=commits&color=b026ff&style=for-the-badge" alt="Commits"/>
-      </a>
-    </td>
   </tr>
 </table>
+
+<br>
+
+<!-- 🏷️ MINI BADGES en fila (como en el código anterior) -->
+<p align="center">
+  <a href="https://github.com/Jean-0411">
+    <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=commits&color=b026ff&style=for-the-badge" alt="Commits"/>
+  </a>
+  <a href="https://github.com/Jean-0411">
+    <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=streak&color=00d9ff&style=for-the-badge" alt="Streak"/>
+  </a>
+  <a href="https://github.com/Jean-0411">
+    <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=stars&color=9d00ff&style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Jean-0411">
+    <img src="https://ghstats.dev/api/mini?username=Jean-0411&metric=followers&label=Community&color=0f5eff&style=for-the-badge" alt="Followers"/>
+  </a>
+</p>
 
 <br>
 
@@ -89,7 +101,6 @@
 
 <br>
 
-<!-- 📂 Sección colapsable: extras -->
 <details>
 <summary>🎓 Certificados y cursos</summary>
 <br>
