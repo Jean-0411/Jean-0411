@@ -6,7 +6,6 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jean-carlos-delgado-bueno-277813377/"><img src="https://img.shields.io/badge/LinkedIn-0a0a2a?style=for-the-badge&logo=linkedin&logoColor=b026ff"/></a>
   <a href="https://github.com/Jean-0411"><img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=b026ff"/></a>
   <img src="https://img.shields.io/badge/Disponible%20para%20colaborar-0a0a2a?style=for-the-badge&logo=checkmarx&logoColor=00d9ff"/>
 </p>
