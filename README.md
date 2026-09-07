@@ -84,6 +84,54 @@
 
 <br>
 
+### 🖼️ Vitrina de Proyectos
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="RUTA_O_LINK_IMAGEN_1.gif" width="100%" alt="Proyecto 1"/>
+      <h4>🔹 Nombre del Proyecto 1</h4>
+      <p>Breve descripción de qué hace este proyecto y qué tecnologías usaste.</p>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js"/>
+      <br><br>
+      <a href="https://github.com/Jean-0411/NOMBRE_REPO_1">🔗 Ver repositorio</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="RUTA_O_LINK_IMAGEN_2.gif" width="100%" alt="Proyecto 2"/>
+      <h4>🔹 Nombre del Proyecto 2</h4>
+      <p>Breve descripción de qué hace este proyecto y qué tecnologías usaste.</p>
+      <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+      <br><br>
+      <a href="https://github.com/Jean-0411/NOMBRE_REPO_2">🔗 Ver repositorio</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+<summary>📽️ Ver más proyectos</summary>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="RUTA_O_LINK_IMAGEN_3.gif" width="100%" alt="Proyecto 3"/>
+      <h4>🔹 Nombre del Proyecto 3</h4>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="RUTA_O_LINK_IMAGEN_4.gif" width="100%" alt="Proyecto 4"/>
+      <h4>🔹 Nombre del Proyecto 4</h4>
+      <p>Breve descripción del proyecto.</p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
 ### 📈 Sparkline de actividad
 <div align="center">
   <a href="https://github.com/Jean-0411">
