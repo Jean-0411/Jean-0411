@@ -75,7 +75,7 @@
 
 ### 🎵 Música en tiempo real (Now Playing)
 <p align="center">
-  <a href="https://open.spotify.com/user/tu_usuario_spotify">
+  <a href="https://open.spotify.com/user/i1az5cnm1sd5lupl04mzs2m65">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=tu_usuario_spotify&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
 </p>
