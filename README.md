@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" width="240" src="https://skillicons.dev/icons?i=js,react,nodejs,python&theme=dark&perline=2">
+<img align="right" width="260" src="https://skillicons.dev/icons?i=js,react,nodejs,python&theme=dark&perline=2">
 
 ### ⚡ Sobre mí
 
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/github/followers/Jean-0411?style=for-the-badge&color=ff00ff&label=COMMUNITY" alt="Followers"/>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,100:0a0a0f&height=55&text=%F0%9F%93%88%20ACTIVIDAD%20RECIENTE&fontSize=22&fontColor=ff00ff&fontAlignY=60" width="55%"/>
@@ -70,7 +70,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,100:0a0a0f&height=55&text=%F0%9F%96%BC%EF%B8%8F%20PROYECTOS%20DESTACADOS&fontSize=22&fontColor=00ffff&fontAlignY=60" width="55%"/>
 </p>
 
-<img align="left" width="320" src="RUTA_O_LINK_IMAGEN_1.gif" alt="Proyecto 1">
+<img align="left" width="260" src="RUTA_O_LINK_IMAGEN_1.gif" alt="Proyecto 1">
 
 #### 🔹 Nombre del Proyecto 1
 Breve descripción de qué hace este proyecto y qué tecnologías usaste.
@@ -81,7 +81,7 @@ Breve descripción de qué hace este proyecto y qué tecnologías usaste.
 
 <br clear="left"/>
 
-<img align="right" width="220" src="RUTA_O_LINK_IMAGEN_2.gif" alt="Proyecto 2">
+<img align="right" width="260" src="RUTA_O_LINK_IMAGEN_2.gif" alt="Proyecto 2">
 
 #### 🔹 Proyecto 2
 Breve descripción de qué hace este proyecto y qué tecnologías usaste.
