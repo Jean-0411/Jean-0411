@@ -2,10 +2,10 @@
   <!-- FUENTES JAPONESAS/FUTURISTAS -->
   <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet"/>
 
-  <!-- BANNER CON EFECTO NEÓN Y TEXTO EN ESPAÑOL CON FUENTE JAPONESA -->
+  <!-- BANNER DE OLAS ANIMADO (CONSERVADO) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0033,100:0a0a0f&height=200&section=header&text=⚡%20Jean%20Delgado%20⚡&fontSize=42&fontColor=ff00ff&animation=fadeIn" width="100%"/>
 
-  <!-- TEXTO MECANOGRÁFICO CON ESTILO CYBERPUNK Y FUENTE JAPONESA -->
+  <!-- TEXTO MECANOGRÁFICO ANIMADO (CONSERVADO) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Jean+Delgado;Desarrollador+en+construcci%C3%B3n+%F0%9F%9A%80;Construyendo+mi+perfil+GitHub+%E2%9C%A8&font=Fira%20Code&center=true&width=550&height=50&color=ff00ff&vCenter=true&size=24" alt="Typing SVG" />
   </a>
@@ -47,7 +47,6 @@
 
 <br>
 
-<!-- ESTADÍSTICAS CON ESTILO NEÓN -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   📊 Estadísticas
 </h2>
@@ -87,7 +86,7 @@
 
 <br>
 
-<!-- WIDGET DE SPOTIFY -->
+<!-- WIDGET DE SPOTIFY (NUEVO) -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   🎵 Now Playing
 </h2>
@@ -100,7 +99,6 @@
 
 <br>
 
-<!-- VITRINA DE PROYECTOS -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   🖼️ Proyectos destacados
 </h2>
@@ -152,7 +150,6 @@
 
 <br>
 
-<!-- SPARKLINE -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   📈 Actividad reciente
 </h2>
@@ -165,7 +162,6 @@
 
 <br>
 
-<!-- SNAKE -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   🐍 Contribuciones
 </h2>
@@ -195,7 +191,6 @@
 
 <br>
 
-<!-- CONTACTO -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   📬 Contacto
 </h2>
