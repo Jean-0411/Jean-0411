@@ -2,13 +2,16 @@
   <!-- FUENTES JAPONESAS/FUTURISTAS -->
   <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet"/>
 
-  <!-- BANNER DE OLAS ANIMADO (CONSERVADO) -->
+  <!-- BANNER DE OLAS ANIMADO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0033,100:0a0a0f&height=200&section=header&text=⚡%20Jean%20Delgado%20⚡&fontSize=42&fontColor=ff00ff&animation=fadeIn" width="100%"/>
 
-  <!-- TEXTO MECANOGRÁFICO ANIMADO (CONSERVADO) -->
+  <!-- TEXTO MECANOGRÁFICO ANIMADO -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Jean+Delgado;Desarrollador+en+construcci%C3%B3n+%F0%9F%9A%80;Construyendo+mi+perfil+GitHub+%E2%9C%A8&font=Fira%20Code&center=true&width=550&height=50&color=ff00ff&vCenter=true&size=24" alt="Typing SVG" />
   </a>
+
+  <!-- GIF DE SALUDO -->
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120"/>
 
   <!-- BADGES CON ESTILO NEÓN -->
   <p align="center">
@@ -22,18 +25,26 @@
 
 <br>
 
-<!-- TÍTULO PRINCIPAL CON FUENTE JAPONESA Y EFECTO NEÓN -->
-<h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
-  ⚡ Sobre mí ⚡
-</h2>
-
-<!-- CONTENIDO CON FUENTE JAPONESA MODERNA -->
-<p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff; text-shadow: 0 0 5px #00ffff;">
-  - 🔭 Actualmente trabajando en: <strong style="color: #ff00ff;">TU_PROYECTO_ACTUAL</strong><br>
-  - 🌱 Aprendiendo: <strong style="color: #ff00ff;">TU_TECNOLOGIA_ACTUAL</strong><br>
-  - 💬 Pregúntame sobre: <strong style="color: #ff00ff;">TUS_TEMAS_FUERTES</strong><br>
-  - ⚡ Dato curioso: <strong style="color: #ff00ff;">Escribe algo divertido sobre ti aquí</strong>
-</p>
+<!-- SECCIÓN SOBRE MÍ EN MOSAICO -->
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
+        ⚡ Sobre mí ⚡
+      </h2>
+      <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff; text-shadow: 0 0 5px #00ffff;">
+        - 🔭 Actualmente trabajando en: <strong style="color: #ff00ff;">TU_PROYECTO_ACTUAL</strong><br>
+        - 🌱 Aprendiendo: <strong style="color: #ff00ff;">TU_TECNOLOGIA_ACTUAL</strong><br>
+        - 💬 Pregúntame sobre: <strong style="color: #ff00ff;">TUS_TEMAS_FUERTES</strong><br>
+        - ⚡ Dato curioso: <strong style="color: #ff00ff;">Escribe algo divertido sobre ti aquí</strong>
+      </p>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="180"/>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -47,20 +58,38 @@
 
 <br>
 
+<!-- GIF DE TRANSICIÓN: TANTAS IDEAS DANDO VUELTAS -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="220"/>
+</div>
+
+<br>
+
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   📊 Estadísticas
 </h2>
 
-<table align="center">
+<!-- MOSAICO DE ESTADÍSTICAS: TAMAÑOS VARIADOS -->
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" rowspan="2">
       <a href="https://github.com/Jean-0411">
         <img width="100%" src="https://ghstats.dev/api/card?username=Jean-0411&theme=tokyonight&bg_color=0a0a0f&title_color=ff00ff&text_color=00ffff&icon_color=ffff00" alt="GitHub Stats Card"/>
       </a>
     </td>
-    <td width="50%">
+    <td width="30%">
       <a href="https://github.com/Jean-0411">
         <img width="100%" src="https://ghstats.dev/api/langs?username=Jean-0411&theme=tokyonight&bg_color=0a0a0f&title_color=ff00ff&text_color=00ffff&layout=donut" alt="Top Languages"/>
+      </a>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/Jean-0411">
+        <img width="100%" src="https://ghstats.dev/api/sparkline?username=Jean-0411&days=30&width=800&line_color=ff00ff" alt="Activity Sparkline"/>
       </a>
     </td>
   </tr>
@@ -86,16 +115,23 @@
 
 <br>
 
-<!-- WIDGET DE SPOTIFY CON ENDPOINT CORREGIDO -->
+<!-- WIDGET DE SPOTIFY -->
 <h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
   🎵 Now Playing
 </h2>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/i1az5cnm1sd5lupl04mzs2m65">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=i1az5cnm1sd5lupl04mzs2m65&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=false" alt="Spotify Now Playing"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/user/i1az5cnm1sd5lupl04mzs2m65">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=i1az5cnm1sd5lupl04mzs2m65&cover_image=true&theme=novatorem&bar_color=ff00ff&bar_color_cover=false" alt="Spotify Now Playing"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="90"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -103,9 +139,10 @@
   🖼️ Proyectos destacados
 </h2>
 
+<!-- MOSAICO DE PROYECTOS: TARJETA GRANDE + DOS PEQUEÑAS -->
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="60%" align="center" rowspan="2">
       <img src="RUTA_O_LINK_IMAGEN_1.gif" width="100%" alt="Proyecto 1"/>
       <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 1</h4>
       <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción de qué hace este proyecto y qué tecnologías usaste.</p>
@@ -114,13 +151,19 @@
       <br><br>
       <a href="https://github.com/Jean-0411/NOMBRE_REPO_1" style="color:#ff00ff;">🔗 Ver repositorio</a>
     </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="RUTA_O_LINK_IMAGEN_2.gif" width="100%" alt="Proyecto 2"/>
       <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 2</h4>
-      <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción de qué hace este proyecto y qué tecnologías usaste.</p>
-      <img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00ffff"/>
-      <br><br>
+      <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción del proyecto.</p>
       <a href="https://github.com/Jean-0411/NOMBRE_REPO_2" style="color:#ff00ff;">🔗 Ver repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
+      <img src="RUTA_O_LINK_IMAGEN_3.gif" width="100%" alt="Proyecto 3"/>
+      <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 3</h4>
+      <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción del proyecto.</p>
+      <a href="https://github.com/Jean-0411/NOMBRE_REPO_3" style="color:#ff00ff;">🔗 Ver repositorio</a>
     </td>
   </tr>
 </table>
@@ -134,13 +177,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="RUTA_O_LINK_IMAGEN_3.gif" width="100%" alt="Proyecto 3"/>
-      <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 3</h4>
+      <img src="RUTA_O_LINK_IMAGEN_4.gif" width="100%" alt="Proyecto 4"/>
+      <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 4</h4>
       <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción del proyecto.</p>
     </td>
     <td width="50%" align="center">
-      <img src="RUTA_O_LINK_IMAGEN_4.gif" width="100%" alt="Proyecto 4"/>
-      <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 4</h4>
+      <img src="RUTA_O_LINK_IMAGEN_5.gif" width="100%" alt="Proyecto 5"/>
+      <h4 style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">🔹 Nombre del Proyecto 5</h4>
       <p style="font-family: 'M PLUS Rounded 1c', sans-serif; color: #00ffff;">Breve descripción del proyecto.</p>
     </td>
   </tr>
@@ -150,14 +193,9 @@
 
 <br>
 
-<h2 align="center" style="font-family: 'DotGothic16', cursive; color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">
-  📈 Actividad reciente
-</h2>
-
+<!-- GIF DIVISOR: AMBIENTE DE TRABAJO -->
 <div align="center">
-  <a href="https://github.com/Jean-0411">
-    <img src="https://ghstats.dev/api/sparkline?username=Jean-0411&days=30&width=800&line_color=ff00ff" alt="Activity Sparkline"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="280"/>
 </div>
 
 <br>
@@ -195,11 +233,28 @@
   📬 Contacto
 </h2>
 
-<p align="center">
-  <a href="mailto:jeandelgado0411@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff00ff"/></a>
-  <a href="https://www.linkedin.com/in/jean-carlos-delgado-bueno-277813377/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffff"/></a>
-</p>
+<!-- MOSAICO DE CONTACTO CON ICONOS SOCIALES ANIMADOS -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:jeandelgado0411@gmail.com">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/><br>
+        <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ff00ff"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jean-carlos-delgado-bueno-277813377/">
+        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"/><br>
+        <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="150"/>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0033,100:0a0a0f&height=100&section=footer"/>
 </div>
